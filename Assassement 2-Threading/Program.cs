@@ -6,6 +6,7 @@ namespace Assassement_2_Threading;
 
 public class Program
 {
+    //declaring variables
     private static List<int> globalList = new List<int>();
     private static int itemCount = 0;
     private static readonly object lockObject = new object();
