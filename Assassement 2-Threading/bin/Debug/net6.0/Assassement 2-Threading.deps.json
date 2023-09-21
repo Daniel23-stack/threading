@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assassement 2-Threading/1.0.0": {
+        "runtime": {
+          "Assassement 2-Threading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assassement 2-Threading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

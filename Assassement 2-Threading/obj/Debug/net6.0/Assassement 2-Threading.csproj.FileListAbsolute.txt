@@ -1,0 +1,15 @@
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\bin\Debug\net6.0\Assassement 2-Threading.exe
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\bin\Debug\net6.0\Assassement 2-Threading.deps.json
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\bin\Debug\net6.0\Assassement 2-Threading.runtimeconfig.json
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\bin\Debug\net6.0\Assassement 2-Threading.dll
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\bin\Debug\net6.0\Assassement 2-Threading.pdb
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\obj\Debug\net6.0\Assassement 2-Threading.csproj.AssemblyReference.cache
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\obj\Debug\net6.0\Assassement 2-Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\obj\Debug\net6.0\Assassement 2-Threading.AssemblyInfoInputs.cache
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\obj\Debug\net6.0\Assassement 2-Threading.AssemblyInfo.cs
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\obj\Debug\net6.0\Assassement 2-Threading.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\obj\Debug\net6.0\Assassement 2-Threading.dll
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\obj\Debug\net6.0\refint\Assassement 2-Threading.dll
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\obj\Debug\net6.0\Assassement 2-Threading.pdb
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\obj\Debug\net6.0\Assassement 2-Threading.genruntimeconfig.cache
+C:\Users\Daniel Qhobosheane\RiderProjects\Assassement 2-Threading\Assassement 2-Threading\obj\Debug\net6.0\ref\Assassement 2-Threading.dll
